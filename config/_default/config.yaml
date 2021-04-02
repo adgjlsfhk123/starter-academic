@@ -3,17 +3,17 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Academic # Website name
+title: 蔡維哲 # Website name
 baseurl: '' # Website URL
-copyright: '' # Footer text, e.g. '© {year} Me'
+copyright: '© {2020} 蔡維哲' # Footer text, e.g. '© {year} Me'
 
 ############################
 ## LANGUAGE
 ############################
 
-defaultContentLanguage: en
-hasCJKLanguage: false
-defaultContentLanguageInSubdir: false
+defaultContentLanguage: zh-Hant
+hasCJKLanguage: true
+defaultContentLanguageInSubdir: true
 removePathAccents: true
 
 ############################

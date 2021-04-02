@@ -14,20 +14,20 @@ font_size: L
 
 site_type: Person
 local_business_type: ''
-org_name: ''
-description: ''
-twitter: ''
+org_name: '永信法律事務所'
+description: '蔡維哲律師的個人網站，關注臺灣司法、司法實證研究及經濟學。'
+twitter: 'adgjlsfhk123'
 
 # Contact (edit or remove options as required)
 
-email: test@example.org
-phone: 888 888 88 88
+email: adgjlsfhk123@gmail.com
+phone: 02-3322-5678
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
+  street: 羅斯福路二段9號11樓
+  city: 臺北市
+  region: 
+  postcode: ''
+  country: Taiwan
   country_code: US
 coordinates:
   latitude: '37.4275'
@@ -41,19 +41,19 @@ contact_links:
   - icon: twitter
     icon_pack: fab
     name: DM Me
-    link: 'https://twitter.com/Twitter'
-  - icon: skype
-    icon_pack: fab
-    name: Skype Me
-    link: 'skype:echo123?call'
-  - icon: keybase
-    icon_pack: fab
-    name: Chat on Keybase
-    link: 'https://keybase.io/'
-  - icon: comments
-    icon_pack: fas
-    name: Discuss on Forum
-    link: 'https://discourse.gohugo.io'
+    link: 'https://twitter.com/adgjlsfhk123'
+ # - icon: skype
+ #   icon_pack: fab
+  #  name: Skype Me
+  #  link: 'skype:echo123?call'
+  #- icon: keybase
+   # icon_pack: fab
+   # name: Chat on Keybase
+   # link: 'https://keybase.io/'
+  #- icon: comments
+   # icon_pack: fas
+   # name: Discuss on Forum
+   # link: 'https://discourse.gohugo.io'
 
 # Site header
 
