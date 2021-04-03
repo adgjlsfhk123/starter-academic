@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 70
 
-title: '最近與即將到來的演講'
+title: '演講'
 subtitle:
 
 content:
