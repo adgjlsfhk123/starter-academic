@@ -10,7 +10,7 @@ main:
   - name: 部落格
     url: '#posts'
     weight: 20
-  - name: 計畫
+  - name: 專題計畫
     url: '#projects'
     weight: 30
   - name: 演講
