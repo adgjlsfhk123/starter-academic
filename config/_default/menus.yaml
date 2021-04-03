@@ -8,7 +8,7 @@ main:
     url: '#about'
     weight: 10
   - name: 部落格
-    url: '#posts'
+    url: '#blog'
     weight: 20
   - name: 專題計畫
     url: '#projects'
