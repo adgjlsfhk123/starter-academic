@@ -17,7 +17,7 @@ main:
     url: '#talks'
     weight: 40
   - name: 出版物
-    url: '#featured'
+    url: '#publiscation'
     weight: 50
   - name: 資源
     url: '#resource'
