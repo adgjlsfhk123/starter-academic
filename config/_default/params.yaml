@@ -34,8 +34,8 @@ coordinates:
   longitude: '121.521336'
 #directions: 
 #office_hours:
-  - ''
-  - ''
+#  - ''
+#  - ''
 #appointment_url: 'https://calendly.com'
 contact_links:
   - icon: twitter
