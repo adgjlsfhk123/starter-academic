@@ -1,18 +1,18 @@
 ---
 # An instance of the Portfolio widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
-widget: portfolio
+#widget: portfolio
 
 # This file represents a page section.
-headless: true
+#headless: true
 
 # Order that this section appears on the page.
-weight: 65
+#weight: 65
 
-title: 專題計畫
-subtitle: ''
+#title: 專題計畫
+#subtitle: ''
 
-content:
+#content:
   # Page type to display. E.g. project.
   page_type: project
 
