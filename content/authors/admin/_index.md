@@ -6,7 +6,7 @@ title: 蔡維哲
 superuser: true
 
 # Role/position/tagline
-role: 初級合夥律師（106臺檢證字第14036號）
+role: 律師（106臺檢證字第14036號）
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -51,7 +51,7 @@ social:
   link: https://github.com/adgjlsfhk123
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/adgjlssfhk123
+  link: https://www.linkedin.com/adgjlsfhk123
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
@@ -77,4 +77,4 @@ social:
 這裡有有我的研究、有一些我偶爾寫的文章、也有一些我曾經蒐集過的學習資訊，這些資源我未必完全使用過，但仍有一定的品質，相信可以減少您的搜索時間。如果您想提供任何專業或私人上的建議，我都會非常感激。您也可以透過[匿名](http://www.admonymous.com/weichetsai
 )的方式聯繫我。
 
-{{< icon name="download" pack="fas" >}} 這裡可以下載我的履歷 {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} 這裡可以下載我的 {{< staticref "media/resume.pdf" "newtab" >}}履歷{{< /staticref >}}.
