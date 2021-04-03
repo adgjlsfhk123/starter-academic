@@ -11,7 +11,7 @@ copyright: '© {2020} 蔡維哲' # Footer text, e.g. '© {year} Me'
 ## LANGUAGE
 ############################
 
-defaultContentLanguage: zh-Hant
+defaultContentLanguage: zh-hant
 hasCJKLanguage: true
 defaultContentLanguageInSubdir: true
 removePathAccents: true
