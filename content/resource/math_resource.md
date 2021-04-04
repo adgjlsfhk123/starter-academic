@@ -24,10 +24,6 @@ caption = ""
 
 - [微積分甲](http://ocw.aca.ntu.edu.tw/ntu-ocw/index.php/ocw/cou/100S111)
 
-- [張翔](https://shiangsir.wixsite.com/shiangsir/tutorialmath)
-	- 九堂課的速成。但也就僅僅是速成。
-	- 前兩堂可能太簡單可以不用看
-
 
 ### 線性代數
 

@@ -59,7 +59,6 @@ caption = ""
 ### 聽力
 
 - [Japanesepod101](https://www.japanesepod101.com)
-	-最好的聽力網站，沒有之一，但是要收費...。
 - [Delvin](http://delvinlanguage.com/)
 - [supernative](https://supernative.tv)
 
@@ -67,7 +66,6 @@ caption = ""
 
 - [bunpro](https://www.bunpro.jp/)
 	- 文法SRS網站，持續精進中。
-	- 開始收費了......
 
 ### 文法
 
@@ -78,9 +76,7 @@ caption = ""
 - [音速日語](https://jp.sonic-learning.com)
 	- 非常齊全的繁體中文、台灣文法教學，幾乎都是免費，但建議買書支持作者。
 - [明智周](http://www.mingzhi.tw)
-	- 撇除作者自創名詞的缺點之外（目的是為了減少初學者文法理解的負擔，但不利於與其他教材銜接），但證明對懂得繁體中文的台灣讀者而言，文法是可以速成的，書相對樓下非常便宜。
 - [邏輯日語](http://www.analyze-jp.com)
-	- 我有買，同樣是速成文法，同樣是專門為中文讀者設計的文法教材。唯一缺點是太貴了。不過文法真的整理得很好，適合速成。與明智周系列可二選一。我個人覺得買前兩本就好。
 
 ### 其他
 
@@ -91,9 +87,6 @@ caption = ""
 
 ### 學習方法
 
-- [AJATT](http://www.alljapaneseallthetime.com/blog/)
-	- 鼎鼎大名，但網站故意設計凌亂，要花很多時間才能知道他想表達什麼，摘要版可以參考[文章1](https://www.quora.com/In-a-nutshell-what-is-the-all-Japanese-all-the-time-method-of-Japanese-language-learning)與[文章2](https://japaneselevelup.com/the-definitive-review-of-all-japanese-all-the-time-ajatt/)
-	- 一言以蔽之，記憶一萬個句子的句子特徵，一天20句，約一年半的時間可以完成。
 - [BRITVSJAPAN](http://blog.matthewhawkins.co/learning-japanese-18-months-update-fluent/)
 	- 使用AJATT成功學習日文，同樣對AJATT進行了摘要。
 - [JapaneseLevelup](https://japaneselevelup.com)
@@ -103,7 +96,6 @@ caption = ""
 - [nest0r](http://ja-minimal.nfshost.com)
 	- 不錯的學習規劃，原始網站已經消失了，這是備份。
 - [Nihongoshark](https://nihongoshark.com)
-	- 不錯的學習規劃。一個重大差別是不用花三個月的時間學漢字XD。
 - 大同小異，重點就是每天用anki.....。
 
 # 德文
