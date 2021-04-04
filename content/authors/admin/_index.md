@@ -77,4 +77,3 @@ social:
 這裡有有我的研究、有一些我偶爾寫的文章、也有一些我曾經蒐集過的學習資訊，這些資源我未必完全使用過，但仍有一定的品質，相信可以減少您的搜索時間。如果您想提供任何專業或私人上的建議，我都會非常感激。您也可以透過[匿名](http://www.admonymous.com/weichetsai
 )的方式聯繫我。
 
-{{< icon name="download" pack="fas" >}} 這裡可以下載我的 {{< staticref "media/resume.pdf" "newtab" >}}履歷{{< /staticref >}}.
