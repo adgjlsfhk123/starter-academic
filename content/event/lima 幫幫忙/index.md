@@ -1,5 +1,5 @@
 ---
-title: 【#lima幫幫忙】你的名字去哪裡？ EP35
+title: 【lima幫幫忙】你的名字去哪裡？ EP35
 
 event: 電視節目
 event_url: https://youtu.be/g3cWXaelPps 
