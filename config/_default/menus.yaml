@@ -12,9 +12,12 @@ main:
   - name: 出版物
     url: 'publication'
     weight: 50
-  - name: 資源
-    url: 'resource'
+  - name: 演講與訪談
+    url: 'talks'
     weight: 50
+#  - name: 資源
+#    url: 'resource'
+#    weight: 50
 #  - name: 專題計畫
 #    url: '#projects'
 #    weight: 30
