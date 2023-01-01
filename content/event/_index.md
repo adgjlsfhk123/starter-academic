@@ -6,12 +6,13 @@ cms_exclude: true
 #   1 = List
 #   2 = Compact
 #   3 = Card
-view: 2
+view: 1
 
 # Optional header image (relative to `static/media/` folder).
 #header:
 #  caption: ""
 #  image: ""
+---
 ---
 
 ## 與西拉雅族與平埔族群議題受邀演講
