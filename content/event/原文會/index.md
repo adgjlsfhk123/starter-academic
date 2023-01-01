@@ -1,16 +1,18 @@
 ---
-title: Example Talk
+title: 原事大特輯 EP 13｜平埔族群是不是原住民為何是個憲法議題？ft. 蔡維哲/律師
 
-event: Wowchemy Conference
-event_url: https://example.org
 
-location: Wowchemy HQ
+event: Podcast
+event_url: https://open.firstory.me/story/cl5utdjsj017901sb2cxr83zg?fbclid=IwAR2g2VanDjyhSDKi-vhhH3Uo2_O3cDMxTuvL45z-Kr3M2IsJB-q-9eHfK60
+
+location: 原住民族文化事業基金會
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
+  street: 南港區重陽路120號5樓
+  city: 台北市
+  region: 台北市
+  postcode: '100'
+  country: 台灣
+
 
 summary: An example talk using Wowchemy's Markdown slides feature.
 abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam."
