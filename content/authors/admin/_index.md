@@ -51,7 +51,7 @@ social:
   link: https://github.com/adgjlsfhk123
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/adgjlsfhk123
+  link: https://www.linkedin.com/weichetsai
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
