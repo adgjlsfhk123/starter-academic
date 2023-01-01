@@ -11,13 +11,13 @@ address:
   postcode: '100'
   country: 台灣
 
-summary: An example talk using Wowchemy's Markdown slides feature.
-abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam."
+summary: 討論平埔族群正名的相關議題
+abstract: "討論平埔族群正名的相關議題"
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2022-08-30T13:00:00Z"
-date_end: "2022-08-30T15:00:00Z"
+date: "2022-08-30T09:00:00Z"
+date_end: "2022-08-30T12:00:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
@@ -30,7 +30,7 @@ tags: []
 featured: true
 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
+  caption: 'Image credit: [**Unsplash**]()'
   focal_point: Right
 
 # links:
