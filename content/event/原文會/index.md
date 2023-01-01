@@ -1,5 +1,5 @@
 ---
-title: 原事大特輯 EP 13｜平埔族群是不是原住民為何是個憲法議題？ft. 蔡維哲/律師
+title: 原事大特輯 EP 13｜平埔族群是不是原住民為何是個憲法議題？
 
 event: Podcast
 event_url: https://open.firstory.me/story/cl5utdjsj017901sb2cxr83zg?fbclid=IwAR2g2VanDjyhSDKi-vhhH3Uo2_O3cDMxTuvL45z-Kr3M2IsJB-q-9eHfK60
@@ -11,8 +11,8 @@ address:
   postcode: '100'
   country: 台灣
 
-summary: test.
-abstract: "test"
+summary: 討論平埔族群正名的相關議題
+abstract: "討論平埔族群正名的相關議題"
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
