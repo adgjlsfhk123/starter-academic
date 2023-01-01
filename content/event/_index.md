@@ -33,8 +33,7 @@ view: 2
 
 ###### [新聞媒體報導1，自由時報報導](https://news.ltn.com.tw/news/life/breakingnews/4143715?utm_medium=R&utm_campaign=SHARE&utm_source=FACEBOOK&fbclid=IwAR2nxTnf8glx4wpqxMdu-ap0y_ePSphSY-rT-tJ7ha_a_osKyJ8dA-yDsbA)
 ###### [新聞媒體報導2，原視新聞網報導](https://news.ipcf.org.tw/60430?fbclid=IwAR2_OELx_ubUpkgLA1YzOShCaj3uNSWDFJJIJZ8uMuS-qX9KE9EVYn8p_kc)
-###### [新聞媒體報導3，TaiwanPlus訪問影片](https://www.youtube.com/watch?v=W957C2Ksd28&ab_channel=TaiwanPlusNews
-)
+###### [新聞媒體報導3，TaiwanPlus訪問影片](https://www.youtube.com/watch?v=W957C2Ksd28&ab_channel=TaiwanPlusNews)
 
 
 ##### 111年12月03日，「總統府原轉會南區諮詢會議」，參加人為十餘位大武壠族之族人，甲仙區小林社區協會。
