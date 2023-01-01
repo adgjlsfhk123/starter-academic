@@ -15,15 +15,28 @@ summary: 討論平埔族群正名的相關議題
 abstract: "（以下全文引自原文會網站）
 ［本集精彩亮點］
 ✔ 這起行政訴訟怎麼會打到憲法法庭？
+
 ✔ 平埔族群血統都已漢化？台灣多數人都有平埔血統？
+
 ✔ 不只血統漢化，平埔族群文化也已漢化？真是如此？
+
 ✔ 當代已無法區別平埔族群和漢人之間差異？
+
 ✔ 60 年前准許登記期間沒登記，表示族人自願拋棄身分？
+
 ✔ 原民會表示平埔族群有 98 萬人口？將稀釋現有資源？
+
 ✔ 憲法有「原住民」一詞卻未定義何謂原住民？
+
 ✔ 平埔族群到底是不是原住民？何來標準？
+
 ✔ 平埔族群該納入現行平地原住民？還是另增列平埔原住民？
-✔ 平埔族群正名議題與台灣社會有重要的關係？"
+
+✔ 平埔族群正名議題與台灣社會有重要的關係？
+
+[重點摘要連結](https://www.facebook.com/ipcf.ipcf/posts/pfbid0VvKoF9pBfqL9pdFZWosQA8eyBubjacRwEpCAnxAjzUpwriFNGYjU16d4DXRrTQtjl)
+
+"
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
