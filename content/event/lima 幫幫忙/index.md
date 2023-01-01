@@ -4,7 +4,7 @@ title: 【lima幫幫忙】你的名字去哪裡？ EP35
 event: 【lima幫幫忙】你的名字去哪裡？ EP35電視節目
 event_url: https://youtu.be/g3cWXaelPps 
 
-location: 原住民族文化事業基金會
+location: 原住民族電視台
 address:
   street: 南港區重陽路120號5樓
   city: 台北市
