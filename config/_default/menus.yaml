@@ -9,7 +9,7 @@ main:
     weight: 10
   - name: 部落格
     url: 'blog'
-  - name: 出版物
+  - name: 出版品
     url: 'publication'
     weight: 50
   - name: 演講與訪談
