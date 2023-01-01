@@ -1,7 +1,7 @@
 ---
 title: 【lima幫幫忙】你的名字去哪裡？ EP35
 
-event: 電視節目
+event: 【lima幫幫忙】你的名字去哪裡？ EP35電視節目
 event_url: https://youtu.be/g3cWXaelPps 
 
 location: 原住民族文化事業基金會
@@ -12,7 +12,11 @@ address:
   country: 台灣
 
 summary: 討論平埔族群正名的相關議題
-abstract: "討論平埔族群正名的相關議題"
+abstract: "(以下引自原視youtube節目之介紹)
+透過理解原住民的定義、台灣原運歷程的爬梳，看見未正名族群的故事，
+讓大家理解，我們都是原住民，進而理解平埔族群為何要爭取正名。
+「原住民」是一種文化分類、種族分類、還是政治分類？你知道台灣的未正名族群有哪些嗎？
+一起來認識平埔族群和他們的故事。"
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
